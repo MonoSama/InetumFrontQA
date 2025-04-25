@@ -57,7 +57,7 @@ Para ejecutar en tu ordenador el siguiente proyecto, sigue los siguientes pasos:
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
 ```bash
-   git clone https://github.com/MonoSama/INETUM-FRONT-END-PLAWYRIGHT.git
+   git clone https://github.com/MonoSama/InetumFrontQA.git
 ```
 
 2. **Instalar Dependencias**
